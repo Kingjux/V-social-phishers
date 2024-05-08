@@ -2,7 +2,7 @@
 
 ![docker](https://img.shields.io/badge/Docker-v19.03.12-blue?style=plastic&logo=docker)
 ![dockercompose](https://img.shields.io/badge/Docker_Compose-v1.25.4-orange?style=plastic&logo=docker)
-![Maintainer](https://img.shields.io/badge/Maintainer-Equinockx-success?style=plastic&logo=terraform)
+![Maintainer](https://img.shields.io/badge/Maintainer-Venocyber-success?style=plastic&logo=terraform)
 
 
 ## Runnin within container
