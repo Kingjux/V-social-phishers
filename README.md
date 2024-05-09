@@ -1,3 +1,15 @@
+<p align="center">
+<img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=V+social+phishers+havking+tool+created+by+VENOCYBER" alt="">
+</p>
+<p align="center">
+<a href="https://wa.me/255625774543"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴠᴇɴᴏᴄʏʙᴇʀ-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/kingjux?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+
 <p align="left">
 </p>
 <p align="center">
